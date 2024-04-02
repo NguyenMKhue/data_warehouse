@@ -1,0 +1,182 @@
+StateProvinceID,StateProvinceCode,CountryRegionName,Name,TerritoryID
+1,AB ,Canada,Alberta,6
+2,AK ,United States,Alaska,1
+3,AL ,United States,Alabama,5
+4,AR ,United States,Arkansas,3
+5,AS ,American Samoa,American Samoa,1
+6,AZ ,United States,Arizona,4
+7,BC ,Canada,British Columbia,6
+8,BY ,Germany,Bayern,8
+9,CA ,United States,California,4
+10,CO ,United States,Colorado,3
+11,CT ,United States,Connecticut,2
+12,DC ,United States,District of Columbia,2
+13,DE ,United States,Delaware,2
+14,ENG,United Kingdom,England,10
+15,FL ,United States,Florida,5
+16,FM ,Micronesia,Micronesia,9
+17,GA ,United States,Georgia,5
+18,GU ,United States,Guam,4
+19,HE ,Germany,Hessen,8
+20,HH ,Germany,Hamburg,8
+21,HI ,United States,Hawaii,1
+22,IA ,United States,Iowa,3
+23,ID ,United States,Idaho,1
+24,IL ,United States,Illinois,3
+25,IN ,United States,Indiana,2
+26,KS ,United States,Kansas,3
+27,KY ,United States,Kentucky,5
+28,LA ,United States,Louisiana,3
+29,LB ,Canada,Labrador,6
+30,MA ,United States,Massachusetts,2
+31,MB ,Canada,Manitoba,6
+32,MD ,United States,Maryland,2
+33,ME ,United States,Maine,2
+34,MH ,Marshall Islands,Marshall Islands,9
+35,MI ,United States,Michigan,3
+36,MN ,United States,Minnesota,3
+37,MO ,United States,Missouri,3
+38,MP ,Northern Mariana Islands,Northern Mariana Islands,9
+39,MS ,United States,Mississippi,5
+40,MT ,United States,Montana,1
+41,NB ,Canada,Brunswick,6
+42,NC ,United States,North Carolina,5
+43,ND ,United States,North Dakota,3
+44,NE ,United States,Nebraska,3
+45,NF ,Canada,Newfoundland,6
+46,NH ,United States,New Hampshire,2
+47,NJ ,United States,New Jersey,2
+48,NM ,United States,New Mexico,4
+49,NS ,Canada,Nova Scotia,6
+50,NSW,Australia,New South Wales,9
+51,NT ,Canada,Northwest Territories,6
+52,NV ,United States,Nevada,1
+53,NW ,Germany,Nordrhein-Westfalen,8
+54,NY ,United States,New York,2
+55,OH ,United States,Ohio,2
+56,OK ,United States,Oklahoma,3
+57,ON ,Canada,Ontario,6
+58,OR ,United States,Oregon,1
+59,PA ,United States,Pennsylvania,2
+60,PE ,Canada,Prince Edward Island,6
+61,PR ,United States,Puerto Rico,5
+62,PW ,Palau,Palau,9
+63,QC ,Canada,Quebec,6
+64,QLD,Australia,Queensland,9
+65,RI ,United States,Rhode Island,2
+66,SA ,Australia,South Australia,9
+67,SC ,United States,South Carolina,5
+68,SD ,United States,South Dakota,3
+69,SK ,Canada,Saskatchewan,6
+70,SL ,Germany,Saarland,8
+71,TAS,Australia,Tasmania,9
+72,TN ,United States,Tennessee,5
+73,TX ,United States,Texas,4
+74,UT ,United States,Utah,1
+75,VA ,United States,Virginia,5
+76,VI ,"Virgin Islands, U.S.",Virgin Islands,5
+77,VIC,Australia,Victoria,9
+78,VT ,United States,Vermont,2
+79,WA ,United States,Washington,1
+80,WI ,United States,Wisconsin,3
+81,WV ,United States,West Virginia,5
+82,WY ,United States,Wyoming,1
+83,YT ,Canada,Yukon Territory,6
+84,FR ,France,France,7
+85,BB ,Germany,Brandenburg,8
+86,SN ,Germany,Saxony,8
+87,01 ,France,Ain,7
+88,02 ,France,Aisne,7
+89,03 ,France,Allier,7
+90,04 ,France,Alpes-de-Haute Provence,7
+91,05 ,France,Alpes (Haute),7
+92,06 ,France,Alpes-Maritimes,7
+93,07 ,France,Ardèche,7
+94,08 ,France,Ardennes,7
+95,09 ,France,Ariège,7
+96,10 ,France,Aube,7
+97,11 ,France,Aude,7
+98,12 ,France,Aveyron,7
+99,13 ,France,Bouches du Rhône,7
+100,14 ,France,Calvados,7
+101,15 ,France,Cantal,7
+102,16 ,France,Charente,7
+103,17 ,France,Charente-Maritime,7
+104,18 ,France,Cher,7
+105,19 ,France,Corrèze,7
+106,20 ,France,Corse,7
+107,21 ,France,Côte d'Or,7
+108,22 ,France,Côtes-d'Armor,7
+109,23 ,France,Creuse,7
+110,24 ,France,Dordogne,7
+111,25 ,France,Toubs,7
+112,26 ,France,Drôme,7
+113,27 ,France,Eure,7
+114,28 ,France,Eure et Loir,7
+115,29 ,France,Finistère,7
+116,30 ,France,Gard,7
+117,31 ,France,Garonne (Haute),7
+118,32 ,France,Gers,7
+119,33 ,France,Gironde,7
+120,34 ,France,Hérault,7
+121,35 ,France,Ille et Vilaine,7
+122,36 ,France,Indre,7
+123,37 ,France,Indre et Loire,7
+124,38 ,France,Isère,7
+125,39 ,France,Jura,7
+126,40 ,France,Landes,7
+127,41 ,France,Loir et Cher,7
+128,42 ,France,Loire,7
+129,43 ,France,Loire (Haute),7
+130,44 ,France,Loire Atlantique,7
+131,45 ,France,Loiret,7
+132,46 ,France,Lot,7
+133,47 ,France,Lot et Garonne,7
+134,48 ,France,Lozère,7
+135,49 ,France,Maine et Loire,7
+136,50 ,France,Manche,7
+137,51 ,France,Marne,7
+138,52 ,France,Marne (Haute),7
+139,53 ,France,Mayenne,7
+140,54 ,France,Meurthe et Moselle,7
+141,55 ,France,Meuse,7
+142,56 ,France,Morbihan,7
+143,57 ,France,Moselle,7
+144,58 ,France,Nièvre,7
+145,59 ,France,Nord,7
+146,60 ,France,Oise,7
+147,61 ,France,Orne,7
+148,62 ,France,Pas de Calais,7
+149,63 ,France,Puy de Dôme,7
+150,64 ,France,Pyrénées Atlantiques,7
+151,65 ,France,Pyrénées (Hautes),7
+152,66 ,France,Pyrénées Orientales,7
+153,67 ,France,Rhin (Bas),7
+154,68 ,France,Rhin (Haut),7
+155,69 ,France,Rhône,7
+156,70 ,France,Saône (Haute),7
+157,71 ,France,Saône et Loire,7
+158,72 ,France,Sarthe,7
+159,73 ,France,Savoie,7
+160,74 ,France,Savoie Haute,7
+161,75 ,France,Seine (Paris),7
+162,76 ,France,Seine Maritime,7
+163,77 ,France,Seine et Marne,7
+164,78 ,France,Yveline,7
+165,79 ,France,Sèvres (Deux),7
+166,80 ,France,Somme,7
+167,81 ,France,Tarne,7
+168,82 ,France,Tarne et Garonne,7
+169,83 ,France,Var,7
+170,84 ,France,Vaucluse,7
+171,85 ,France,La Vendée,7
+172,86 ,France,Vienne,7
+173,87 ,France,Vienne (Haute),7
+174,88 ,France,Vosges,7
+175,89 ,France,Yonne,7
+176,90 ,France,Belford (Territoire de),7
+177,91 ,France,Essonne,7
+178,92 ,France,Hauts de Seine,7
+179,93 ,France,Seine Saint Denis,7
+180,94 ,France,Val de Marne,7
+181,95 ,France,Val d'Oise,7
