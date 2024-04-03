@@ -1,212 +1,212 @@
 ProductID,Name,Color,ProductSubcategoryID,DaysToManufacture
-1,Adjustable Race,Black,,0
-2,Bearing Ball,Black,,0
-3,BB Ball Bearing,Black,,1
-4,Headset Ball Bearings,Black,,0
-316,Blade,Black,,1
+1,Adjustable Race,No color,,0
+2,Bearing Ball,No color,,0
+3,BB Ball Bearing,No color,,1
+4,Headset Ball Bearings,No color,,0
+316,Blade,No color,,1
 317,LL Crankarm,Black,,0
 318,ML Crankarm,Black,,0
 319,HL Crankarm,Black,,0
 320,Chainring Bolts,Silver,,0
 321,Chainring Nut,Silver,,0
 322,Chainring,Black,,0
-323,Crown Race,Black,,0
-324,Chain Stays,Black,,1
-325,Decal 1,Black,,0
-326,Decal 2,Black,,0
-327,Down Tube,Black,,1
-328,Mountain End Caps,Black,,1
-329,Road End Caps,Black,,1
-330,Touring End Caps,Black,,1
-331,Fork End,Black,,1
+323,Crown Race,No color,,0
+324,Chain Stays,No color,,1
+325,Decal 1,No color,,0
+326,Decal 2,No color,,0
+327,Down Tube,No color,,1
+328,Mountain End Caps,No color,,1
+329,Road End Caps,No color,,1
+330,Touring End Caps,No color,,1
+331,Fork End,No color,,1
 332,Freewheel,Silver,,0
-341,Flat Washer 1,Black,,0
-342,Flat Washer 6,Black,,0
-343,Flat Washer 2,Black,,0
-344,Flat Washer 9,Black,,0
-345,Flat Washer 4,Black,,0
-346,Flat Washer 3,Black,,0
-347,Flat Washer 8,Black,,0
-348,Flat Washer 5,Black,,0
-349,Flat Washer 7,Black,,0
-350,Fork Crown,Black,,1
+341,Flat Washer 1,No color,,0
+342,Flat Washer 6,No color,,0
+343,Flat Washer 2,No color,,0
+344,Flat Washer 9,No color,,0
+345,Flat Washer 4,No color,,0
+346,Flat Washer 3,No color,,0
+347,Flat Washer 8,No color,,0
+348,Flat Washer 5,No color,,0
+349,Flat Washer 7,No color,,0
+350,Fork Crown,No color,,1
 351,Front Derailleur Cage,Silver,,0
 352,Front Derailleur Linkage,Silver,,0
-355,Guide Pulley,Black,,0
-356,LL Grip Tape,Black,,0
-357,ML Grip Tape,Black,,0
-358,HL Grip Tape,Black,,0
-359,Thin-Jam Hex Nut 9,Black,,0
-360,Thin-Jam Hex Nut 10,Black,,0
-361,Thin-Jam Hex Nut 1,Black,,0
-362,Thin-Jam Hex Nut 2,Black,,0
-363,Thin-Jam Hex Nut 15,Black,,0
-364,Thin-Jam Hex Nut 16,Black,,0
-365,Thin-Jam Hex Nut 5,Black,,0
-366,Thin-Jam Hex Nut 6,Black,,0
-367,Thin-Jam Hex Nut 3,Black,,0
-368,Thin-Jam Hex Nut 4,Black,,0
-369,Thin-Jam Hex Nut 13,Black,,0
-370,Thin-Jam Hex Nut 14,Black,,0
-371,Thin-Jam Hex Nut 7,Black,,0
-372,Thin-Jam Hex Nut 8,Black,,0
-373,Thin-Jam Hex Nut 12,Black,,0
-374,Thin-Jam Hex Nut 11,Black,,0
-375,Hex Nut 5,Black,,0
-376,Hex Nut 6,Black,,0
-377,Hex Nut 16,Black,,0
-378,Hex Nut 17,Black,,0
-379,Hex Nut 7,Black,,0
-380,Hex Nut 8,Black,,0
-381,Hex Nut 9,Black,,0
-382,Hex Nut 22,Black,,0
-383,Hex Nut 23,Black,,0
-384,Hex Nut 12,Black,,0
-385,Hex Nut 13,Black,,0
-386,Hex Nut 1,Black,,0
-387,Hex Nut 10,Black,,0
-388,Hex Nut 11,Black,,0
-389,Hex Nut 2,Black,,0
-390,Hex Nut 20,Black,,0
-391,Hex Nut 21,Black,,0
-392,Hex Nut 3,Black,,0
-393,Hex Nut 14,Black,,0
-394,Hex Nut 15,Black,,0
-395,Hex Nut 4,Black,,0
-396,Hex Nut 18,Black,,0
-397,Hex Nut 19,Black,,0
-398,Handlebar Tube,Black,,1
-399,Head Tube,Black,,1
-400,LL Hub,Black,,1
-401,HL Hub,Black,,1
-402,Keyed Washer,Black,,0
-403,External Lock Washer 3,Black,,0
-404,External Lock Washer 4,Black,,0
-405,External Lock Washer 9,Black,,0
-406,External Lock Washer 5,Black,,0
-407,External Lock Washer 7,Black,,0
-408,External Lock Washer 6,Black,,0
-409,External Lock Washer 1,Black,,0
-410,External Lock Washer 8,Black,,0
-411,External Lock Washer 2,Black,,0
-412,Internal Lock Washer 3,Black,,0
-413,Internal Lock Washer 4,Black,,0
-414,Internal Lock Washer 9,Black,,0
-415,Internal Lock Washer 5,Black,,0
-416,Internal Lock Washer 7,Black,,0
-417,Internal Lock Washer 6,Black,,0
-418,Internal Lock Washer 10,Black,,0
-419,Internal Lock Washer 1,Black,,0
-420,Internal Lock Washer 8,Black,,0
-421,Internal Lock Washer 2,Black,,0
-422,Thin-Jam Lock Nut 9,Black,,0
-423,Thin-Jam Lock Nut 10,Black,,0
-424,Thin-Jam Lock Nut 1,Black,,0
-425,Thin-Jam Lock Nut 2,Black,,0
-426,Thin-Jam Lock Nut 15,Black,,0
-427,Thin-Jam Lock Nut 16,Black,,0
-428,Thin-Jam Lock Nut 5,Black,,0
-429,Thin-Jam Lock Nut 6,Black,,0
-430,Thin-Jam Lock Nut 3,Black,,0
-431,Thin-Jam Lock Nut 4,Black,,0
-432,Thin-Jam Lock Nut 13,Black,,0
-433,Thin-Jam Lock Nut 14,Black,,0
-434,Thin-Jam Lock Nut 7,Black,,0
-435,Thin-Jam Lock Nut 8,Black,,0
-436,Thin-Jam Lock Nut 12,Black,,0
-437,Thin-Jam Lock Nut 11,Black,,0
-438,Lock Nut 5,Black,,0
-439,Lock Nut 6,Black,,0
-440,Lock Nut 16,Black,,0
-441,Lock Nut 17,Black,,0
-442,Lock Nut 7,Black,,0
-443,Lock Nut 8,Black,,0
-444,Lock Nut 9,Black,,0
-445,Lock Nut 22,Black,,0
-446,Lock Nut 23,Black,,0
-447,Lock Nut 12,Black,,0
-448,Lock Nut 13,Black,,0
-449,Lock Nut 1,Black,,0
-450,Lock Nut 10,Black,,0
-451,Lock Nut 11,Black,,0
-452,Lock Nut 2,Black,,0
-453,Lock Nut 20,Black,,0
-454,Lock Nut 21,Black,,0
-455,Lock Nut 3,Black,,0
-456,Lock Nut 14,Black,,0
-457,Lock Nut 15,Black,,0
-458,Lock Nut 4,Black,,0
-459,Lock Nut 19,Black,,0
-460,Lock Nut 18,Black,,0
+355,Guide Pulley,No color,,0
+356,LL Grip Tape,No color,,0
+357,ML Grip Tape,No color,,0
+358,HL Grip Tape,No color,,0
+359,Thin-Jam Hex Nut 9,No color,,0
+360,Thin-Jam Hex Nut 10,No color,,0
+361,Thin-Jam Hex Nut 1,No color,,0
+362,Thin-Jam Hex Nut 2,No color,,0
+363,Thin-Jam Hex Nut 15,No color,,0
+364,Thin-Jam Hex Nut 16,No color,,0
+365,Thin-Jam Hex Nut 5,No color,,0
+366,Thin-Jam Hex Nut 6,No color,,0
+367,Thin-Jam Hex Nut 3,No color,,0
+368,Thin-Jam Hex Nut 4,No color,,0
+369,Thin-Jam Hex Nut 13,No color,,0
+370,Thin-Jam Hex Nut 14,No color,,0
+371,Thin-Jam Hex Nut 7,No color,,0
+372,Thin-Jam Hex Nut 8,No color,,0
+373,Thin-Jam Hex Nut 12,No color,,0
+374,Thin-Jam Hex Nut 11,No color,,0
+375,Hex Nut 5,No color,,0
+376,Hex Nut 6,No color,,0
+377,Hex Nut 16,No color,,0
+378,Hex Nut 17,No color,,0
+379,Hex Nut 7,No color,,0
+380,Hex Nut 8,No color,,0
+381,Hex Nut 9,No color,,0
+382,Hex Nut 22,No color,,0
+383,Hex Nut 23,No color,,0
+384,Hex Nut 12,No color,,0
+385,Hex Nut 13,No color,,0
+386,Hex Nut 1,No color,,0
+387,Hex Nut 10,No color,,0
+388,Hex Nut 11,No color,,0
+389,Hex Nut 2,No color,,0
+390,Hex Nut 20,No color,,0
+391,Hex Nut 21,No color,,0
+392,Hex Nut 3,No color,,0
+393,Hex Nut 14,No color,,0
+394,Hex Nut 15,No color,,0
+395,Hex Nut 4,No color,,0
+396,Hex Nut 18,No color,,0
+397,Hex Nut 19,No color,,0
+398,Handlebar Tube,No color,,1
+399,Head Tube,No color,,1
+400,LL Hub,No color,,1
+401,HL Hub,No color,,1
+402,Keyed Washer,No color,,0
+403,External Lock Washer 3,No color,,0
+404,External Lock Washer 4,No color,,0
+405,External Lock Washer 9,No color,,0
+406,External Lock Washer 5,No color,,0
+407,External Lock Washer 7,No color,,0
+408,External Lock Washer 6,No color,,0
+409,External Lock Washer 1,No color,,0
+410,External Lock Washer 8,No color,,0
+411,External Lock Washer 2,No color,,0
+412,Internal Lock Washer 3,No color,,0
+413,Internal Lock Washer 4,No color,,0
+414,Internal Lock Washer 9,No color,,0
+415,Internal Lock Washer 5,No color,,0
+416,Internal Lock Washer 7,No color,,0
+417,Internal Lock Washer 6,No color,,0
+418,Internal Lock Washer 10,No color,,0
+419,Internal Lock Washer 1,No color,,0
+420,Internal Lock Washer 8,No color,,0
+421,Internal Lock Washer 2,No color,,0
+422,Thin-Jam Lock Nut 9,No color,,0
+423,Thin-Jam Lock Nut 10,No color,,0
+424,Thin-Jam Lock Nut 1,No color,,0
+425,Thin-Jam Lock Nut 2,No color,,0
+426,Thin-Jam Lock Nut 15,No color,,0
+427,Thin-Jam Lock Nut 16,No color,,0
+428,Thin-Jam Lock Nut 5,No color,,0
+429,Thin-Jam Lock Nut 6,No color,,0
+430,Thin-Jam Lock Nut 3,No color,,0
+431,Thin-Jam Lock Nut 4,No color,,0
+432,Thin-Jam Lock Nut 13,No color,,0
+433,Thin-Jam Lock Nut 14,No color,,0
+434,Thin-Jam Lock Nut 7,No color,,0
+435,Thin-Jam Lock Nut 8,No color,,0
+436,Thin-Jam Lock Nut 12,No color,,0
+437,Thin-Jam Lock Nut 11,No color,,0
+438,Lock Nut 5,No color,,0
+439,Lock Nut 6,No color,,0
+440,Lock Nut 16,No color,,0
+441,Lock Nut 17,No color,,0
+442,Lock Nut 7,No color,,0
+443,Lock Nut 8,No color,,0
+444,Lock Nut 9,No color,,0
+445,Lock Nut 22,No color,,0
+446,Lock Nut 23,No color,,0
+447,Lock Nut 12,No color,,0
+448,Lock Nut 13,No color,,0
+449,Lock Nut 1,No color,,0
+450,Lock Nut 10,No color,,0
+451,Lock Nut 11,No color,,0
+452,Lock Nut 2,No color,,0
+453,Lock Nut 20,No color,,0
+454,Lock Nut 21,No color,,0
+455,Lock Nut 3,No color,,0
+456,Lock Nut 14,No color,,0
+457,Lock Nut 15,No color,,0
+458,Lock Nut 4,No color,,0
+459,Lock Nut 19,No color,,0
+460,Lock Nut 18,No color,,0
 461,Lock Ring,Silver,,0
-462,Lower Head Race,Black,,0
-463,Lock Washer 4,Black,,0
-464,Lock Washer 5,Black,,0
-465,Lock Washer 10,Black,,0
-466,Lock Washer 6,Black,,0
-467,Lock Washer 13,Black,,0
-468,Lock Washer 8,Black,,0
-469,Lock Washer 1,Black,,0
-470,Lock Washer 7,Black,,0
-471,Lock Washer 12,Black,,0
-472,Lock Washer 2,Black,,0
-473,Lock Washer 9,Black,,0
-474,Lock Washer 3,Black,,0
-475,Lock Washer 11,Black,,0
-476,Metal Angle,Black,,0
-477,Metal Bar 1,Black,,0
-478,Metal Bar 2,Black,,0
-479,Metal Plate 2,Black,,0
-480,Metal Plate 1,Black,,0
-481,Metal Plate 3,Black,,0
-482,Metal Sheet 2,Black,,0
-483,Metal Sheet 3,Black,,0
-484,Metal Sheet 7,Black,,0
-485,Metal Sheet 4,Black,,0
-486,Metal Sheet 5,Black,,0
-487,Metal Sheet 6,Black,,0
-488,Metal Sheet 1,Black,,0
-489,Metal Tread Plate,Black,,0
-490,LL Nipple,Black,,0
-491,HL Nipple,Black,,0
-492,Paint - Black,Black,,0
-493,Paint - Red,Black,,0
-494,Paint - Silver,Black,,0
-495,Paint - Blue,Black,,0
-496,Paint - Yellow,Black,,0
-497,Pinch Bolt,Black,,0
-504,Cup-Shaped Race,Black,,0
-505,Cone-Shaped Race,Black,,0
-506,Reflector,Black,,0
-507,LL Mountain Rim,Black,,0
-508,ML Mountain Rim,Black,,0
-509,HL Mountain Rim,Black,,0
-510,LL Road Rim,Black,,0
-511,ML Road Rim,Black,,0
-512,HL Road Rim,Black,,0
-513,Touring Rim,Black,,0
-514,LL Mountain Seat Assembly,Black,,1
-515,ML Mountain Seat Assembly,Black,,1
-516,HL Mountain Seat Assembly,Black,,1
-517,LL Road Seat Assembly,Black,,1
-518,ML Road Seat Assembly,Black,,1
-519,HL Road Seat Assembly,Black,,1
-520,LL Touring Seat Assembly,Black,,1
-521,ML Touring Seat Assembly,Black,,1
-522,HL Touring Seat Assembly,Black,,1
-523,LL Spindle/Axle,Black,,0
-524,HL Spindle/Axle,Black,,0
-525,LL Shell,Black,,0
-526,HL Shell,Black,,0
-527,Spokes,Black,,0
-528,Seat Lug,Black,,0
-529,Stem,Black,,1
-530,Seat Post,Black,,0
-531,Steerer,Black,,1
-532,Seat Stays,Black,,1
-533,Seat Tube,Black,,1
-534,Top Tube,Black,,1
-535,Tension Pulley,Black,,0
+462,Lower Head Race,No color,,0
+463,Lock Washer 4,No color,,0
+464,Lock Washer 5,No color,,0
+465,Lock Washer 10,No color,,0
+466,Lock Washer 6,No color,,0
+467,Lock Washer 13,No color,,0
+468,Lock Washer 8,No color,,0
+469,Lock Washer 1,No color,,0
+470,Lock Washer 7,No color,,0
+471,Lock Washer 12,No color,,0
+472,Lock Washer 2,No color,,0
+473,Lock Washer 9,No color,,0
+474,Lock Washer 3,No color,,0
+475,Lock Washer 11,No color,,0
+476,Metal Angle,No color,,0
+477,Metal Bar 1,No color,,0
+478,Metal Bar 2,No color,,0
+479,Metal Plate 2,No color,,0
+480,Metal Plate 1,No color,,0
+481,Metal Plate 3,No color,,0
+482,Metal Sheet 2,No color,,0
+483,Metal Sheet 3,No color,,0
+484,Metal Sheet 7,No color,,0
+485,Metal Sheet 4,No color,,0
+486,Metal Sheet 5,No color,,0
+487,Metal Sheet 6,No color,,0
+488,Metal Sheet 1,No color,,0
+489,Metal Tread Plate,No color,,0
+490,LL Nipple,No color,,0
+491,HL Nipple,No color,,0
+492,Paint - Black,No color,,0
+493,Paint - Red,No color,,0
+494,Paint - Silver,No color,,0
+495,Paint - Blue,No color,,0
+496,Paint - Yellow,No color,,0
+497,Pinch Bolt,No color,,0
+504,Cup-Shaped Race,No color,,0
+505,Cone-Shaped Race,No color,,0
+506,Reflector,No color,,0
+507,LL Mountain Rim,No color,,0
+508,ML Mountain Rim,No color,,0
+509,HL Mountain Rim,No color,,0
+510,LL Road Rim,No color,,0
+511,ML Road Rim,No color,,0
+512,HL Road Rim,No color,,0
+513,Touring Rim,No color,,0
+514,LL Mountain Seat Assembly,No color,,1
+515,ML Mountain Seat Assembly,No color,,1
+516,HL Mountain Seat Assembly,No color,,1
+517,LL Road Seat Assembly,No color,,1
+518,ML Road Seat Assembly,No color,,1
+519,HL Road Seat Assembly,No color,,1
+520,LL Touring Seat Assembly,No color,,1
+521,ML Touring Seat Assembly,No color,,1
+522,HL Touring Seat Assembly,No color,,1
+523,LL Spindle/Axle,No color,,0
+524,HL Spindle/Axle,No color,,0
+525,LL Shell,No color,,0
+526,HL Shell,No color,,0
+527,Spokes,No color,,0
+528,Seat Lug,No color,,0
+529,Stem,No color,,1
+530,Seat Post,No color,,0
+531,Steerer,No color,,1
+532,Seat Stays,No color,,1
+533,Seat Tube,No color,,1
+534,Top Tube,No color,,1
+535,Tension Pulley,No color,,0
 679,Rear Derailleur Cage,Silver,,0
 680,"HL Road Frame - Black, 58",Black,14.0,1
 706,"HL Road Frame - Red, 58",Red,14.0,1
@@ -305,18 +305,18 @@ ProductID,Name,Color,ProductSubcategoryID,DaysToManufacture
 799,"Road-550-W Yellow, 42",Yellow,2.0,4
 800,"Road-550-W Yellow, 44",Yellow,2.0,4
 801,"Road-550-W Yellow, 48",Yellow,2.0,4
-802,LL Fork,Black,10.0,1
-803,ML Fork,Black,10.0,1
-804,HL Fork,Black,10.0,1
-805,LL Headset,Black,11.0,1
-806,ML Headset,Black,11.0,1
-807,HL Headset,Black,11.0,1
-808,LL Mountain Handlebars,Black,4.0,1
-809,ML Mountain Handlebars,Black,4.0,1
-810,HL Mountain Handlebars,Black,4.0,1
-811,LL Road Handlebars,Black,4.0,1
-812,ML Road Handlebars,Black,4.0,1
-813,HL Road Handlebars,Black,4.0,1
+802,LL Fork,No color,10.0,1
+803,ML Fork,No color,10.0,1
+804,HL Fork,No color,10.0,1
+805,LL Headset,No color,11.0,1
+806,ML Headset,No color,11.0,1
+807,HL Headset,No color,11.0,1
+808,LL Mountain Handlebars,No color,4.0,1
+809,ML Mountain Handlebars,No color,4.0,1
+810,HL Mountain Handlebars,No color,4.0,1
+811,LL Road Handlebars,No color,4.0,1
+812,ML Road Handlebars,No color,4.0,1
+813,HL Road Handlebars,No color,4.0,1
 814,"ML Mountain Frame - Black, 38",Black,12.0,2
 815,LL Mountain Front Wheel,Black,17.0,1
 816,ML Mountain Front Wheel,Black,17.0,1
@@ -346,12 +346,12 @@ ProductID,Name,Color,ProductSubcategoryID,DaysToManufacture
 840,"HL Road Frame - Black, 52",Black,14.0,1
 841,"Men's Sports Shorts, S",Black,22.0,0
 842,"Touring-Panniers, Large",Grey,35.0,0
-843,Cable Lock,Black,34.0,0
-844,Minipump,Black,36.0,0
-845,Mountain Pump,Black,36.0,0
-846,Taillights - Battery-Powered,Black,33.0,0
-847,Headlights - Dual-Beam,Black,33.0,0
-848,Headlights - Weatherproof,Black,33.0,0
+843,Cable Lock,No color,34.0,0
+844,Minipump,No color,36.0,0
+845,Mountain Pump,No color,36.0,0
+846,Taillights - Battery-Powered,No color,33.0,0
+847,Headlights - Dual-Beam,No color,33.0,0
+848,Headlights - Weatherproof,No color,33.0,0
 849,"Men's Sports Shorts, M",Black,22.0,0
 850,"Men's Sports Shorts, L",Black,22.0,0
 851,"Men's Sports Shorts, XL",Black,22.0,0
@@ -373,16 +373,16 @@ ProductID,Name,Color,ProductSubcategoryID,DaysToManufacture
 867,"Women's Mountain Shorts, S",Black,22.0,0
 868,"Women's Mountain Shorts, M",Black,22.0,0
 869,"Women's Mountain Shorts, L",Black,22.0,0
-870,Water Bottle - 30 oz.,Black,28.0,0
-871,Mountain Bottle Cage,Black,28.0,0
-872,Road Bottle Cage,Black,28.0,0
-873,Patch Kit/8 Patches,Black,37.0,0
+870,Water Bottle - 30 oz.,No color,28.0,0
+871,Mountain Bottle Cage,No color,28.0,0
+872,Road Bottle Cage,No color,28.0,0
+873,Patch Kit/8 Patches,No color,37.0,0
 874,"Racing Socks, M",White,23.0,0
 875,"Racing Socks, L",White,23.0,0
-876,Hitch Rack - 4-Bike,Black,26.0,0
-877,Bike Wash - Dissolver,Black,29.0,0
-878,Fender Set - Mountain,Black,30.0,0
-879,All-Purpose Bike Stand,Black,27.0,0
+876,Hitch Rack - 4-Bike,No color,26.0,0
+877,Bike Wash - Dissolver,No color,29.0,0
+878,Fender Set - Mountain,No color,30.0,0
+879,All-Purpose Bike Stand,No color,27.0,0
 880,Hydration Pack - 70 oz.,Silver,32.0,0
 881,"Short-Sleeve Classic Jersey, S",Yellow,21.0,0
 882,"Short-Sleeve Classic Jersey, M",Yellow,21.0,0
@@ -411,33 +411,33 @@ ProductID,Name,Color,ProductSubcategoryID,DaysToManufacture
 905,"ML Mountain Frame-W - Silver, 42",Silver,12.0,1
 906,"ML Mountain Frame-W - Silver, 46",Silver,12.0,1
 907,Rear Brakes,Silver,6.0,1
-908,LL Mountain Seat/Saddle,Black,15.0,1
-909,ML Mountain Seat/Saddle,Black,15.0,1
-910,HL Mountain Seat/Saddle,Black,15.0,1
-911,LL Road Seat/Saddle,Black,15.0,1
-912,ML Road Seat/Saddle,Black,15.0,1
-913,HL Road Seat/Saddle,Black,15.0,1
-914,LL Touring Seat/Saddle,Black,15.0,1
-915,ML Touring Seat/Saddle,Black,15.0,1
-916,HL Touring Seat/Saddle,Black,15.0,1
+908,LL Mountain Seat/Saddle,No color,15.0,1
+909,ML Mountain Seat/Saddle,No color,15.0,1
+910,HL Mountain Seat/Saddle,No color,15.0,1
+911,LL Road Seat/Saddle,No color,15.0,1
+912,ML Road Seat/Saddle,No color,15.0,1
+913,HL Road Seat/Saddle,No color,15.0,1
+914,LL Touring Seat/Saddle,No color,15.0,1
+915,ML Touring Seat/Saddle,No color,15.0,1
+916,HL Touring Seat/Saddle,No color,15.0,1
 917,"LL Mountain Frame - Silver, 42",Silver,12.0,1
 918,"LL Mountain Frame - Silver, 44",Silver,12.0,1
 919,"LL Mountain Frame - Silver, 48",Silver,12.0,1
 920,"LL Mountain Frame - Silver, 52",Silver,12.0,1
-921,Mountain Tire Tube,Black,37.0,0
-922,Road Tire Tube,Black,37.0,0
-923,Touring Tire Tube,Black,37.0,0
+921,Mountain Tire Tube,No color,37.0,0
+922,Road Tire Tube,No color,37.0,0
+923,Touring Tire Tube,No color,37.0,0
 924,"LL Mountain Frame - Black, 42",Black,12.0,1
 925,"LL Mountain Frame - Black, 44",Black,12.0,1
 926,"LL Mountain Frame - Black, 48",Black,12.0,1
 927,"LL Mountain Frame - Black, 52",Black,12.0,1
-928,LL Mountain Tire,Black,37.0,0
-929,ML Mountain Tire,Black,37.0,0
-930,HL Mountain Tire,Black,37.0,0
-931,LL Road Tire,Black,37.0,0
-932,ML Road Tire,Black,37.0,0
-933,HL Road Tire,Black,37.0,0
-934,Touring Tire,Black,37.0,0
+928,LL Mountain Tire,No color,37.0,0
+929,ML Mountain Tire,No color,37.0,0
+930,HL Mountain Tire,No color,37.0,0
+931,LL Road Tire,No color,37.0,0
+932,ML Road Tire,No color,37.0,0
+933,HL Road Tire,No color,37.0,0
+934,Touring Tire,No color,37.0,0
 935,LL Mountain Pedal,Silver/Black,13.0,1
 936,ML Mountain Pedal,Silver/Black,13.0,1
 937,HL Mountain Pedal,Silver/Black,13.0,1
@@ -449,8 +449,8 @@ ProductID,Name,Color,ProductSubcategoryID,DaysToManufacture
 943,"LL Mountain Frame - Black, 40",Black,12.0,2
 944,"LL Mountain Frame - Silver, 40",Silver,12.0,2
 945,Front Derailleur,Silver,9.0,1
-946,LL Touring Handlebars,Black,4.0,1
-947,HL Touring Handlebars,Black,4.0,1
+946,LL Touring Handlebars,No color,4.0,1
+947,HL Touring Handlebars,No color,4.0,1
 948,Front Brakes,Silver,6.0,1
 949,LL Crankset,Black,8.0,1
 950,ML Crankset,Black,8.0,1
@@ -497,9 +497,9 @@ ProductID,Name,Color,ProductSubcategoryID,DaysToManufacture
 991,"Mountain-500 Black, 44",Black,1.0,4
 992,"Mountain-500 Black, 48",Black,1.0,4
 993,"Mountain-500 Black, 52",Black,1.0,4
-994,LL Bottom Bracket,Black,5.0,1
-995,ML Bottom Bracket,Black,5.0,1
-996,HL Bottom Bracket,Black,5.0,1
+994,LL Bottom Bracket,No color,5.0,1
+995,ML Bottom Bracket,No color,5.0,1
+996,HL Bottom Bracket,No color,5.0,1
 997,"Road-750 Black, 44",Black,2.0,4
 998,"Road-750 Black, 48",Black,2.0,4
 999,"Road-750 Black, 52",Black,2.0,4
